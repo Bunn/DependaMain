@@ -1,0 +1,3 @@
+[submodule "TestDependa/Submodules/dependasub"]
+	path = TestDependa/Submodules/dependasub
+	url = git@github.com:Bunn/DependaSub.git
